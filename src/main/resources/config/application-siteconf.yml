@@ -1,0 +1,6 @@
+siteconf:
+  redirect: http://clean.30.net
+  bizlist:
+    - http://127.0.0.1:8089/
+    - http://127.0.0.1:8089/
+    - http://127.0.0.1:8089/

@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "siteconf",
+      "type": "com.angogo.ht.linkgate.model.conf.siteconf",
+      "sourceType": "com.angogo.ht.linkgate.model.conf.siteconf"
+    }
+  ],
+  "properties": [
+    {
+      "name": "siteconf.bizlist",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.angogo.ht.linkgate.model.conf.siteconf"
+    },
+    {
+      "name": "siteconf.redirect",
+      "type": "java.lang.String",
+      "sourceType": "com.angogo.ht.linkgate.model.conf.siteconf"
+    }
+  ],
+  "hints": []
+}
